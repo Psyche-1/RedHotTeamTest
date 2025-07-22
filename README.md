@@ -13,3 +13,7 @@ git clone https://github.com/Psyche-1/RedHotTeamTest.git
 
 Далі запустити за допомогою команди:
 shopify theme dev
+
+Файли, які були змінені:
+sections/slideshow.liquid
+sections/main-product.liquid
